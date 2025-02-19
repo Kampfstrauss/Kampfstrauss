@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/177152143?v=4"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=veitis&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=Kampfstrauss&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=veitis&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
